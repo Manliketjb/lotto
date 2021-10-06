@@ -1,5 +1,3 @@
-
-
 local menuEnabled = false
 
 RegisterNetEvent("ToggleActionmenu")
