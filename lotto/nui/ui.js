@@ -12,13 +12,10 @@ $(document).ready(function(){
             $("body").css("background-image","none");
             document.location.reload(true);
         }
- } );
-        
-	
-        $(document).keyup(function(e) {
+ });        
+ $(document).keyup(function(e) {
             if ( e.keyCode == 27 ) {
-             $.post('https://lotto/closeButton', JSON.stringify({}));2
+             $.post('https://lotto/closeButton', JSON.stringify({}));
            }
-        });
-
-    });
+      });
+});
