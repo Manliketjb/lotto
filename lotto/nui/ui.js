@@ -14,7 +14,7 @@ $(document).ready(function(){
         }
  });        
  $(document).keyup(function(e) {
-            if ( e.keyCode == 27 ) {
+            if (data.which == 27) {
              $.post('https://lotto/closeButton', JSON.stringify({}));
            }
       });
