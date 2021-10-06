@@ -15,7 +15,7 @@ $(document).ready(function(){
  });        
         $(document).keyup(function(e) {
             if ( e.keyCode == 27 ) {
-             $.post('http://lotto/closeButton', JSON.stringify({}));
+             $.post('https://lotto/closeButton', JSON.stringify({}));
            }
         });
 });
