@@ -89,7 +89,7 @@ window.addEventListener("DOMContentLoaded", () => {
           if (winner) {
             winSound.play();
             setTimeout(() => rainMoney(), 1200);
-            $.post('http://lotto/win', JSON.stringify({}));2
+            $.post('http://lotto/win', JSON.stringify({}));
           } else {
             loseSound.play();
           }
