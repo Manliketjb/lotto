@@ -22,7 +22,7 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
 
 
 Upload the **lotto.png**  into your **inventory/html/images** folder
-``` adding soon
+
 ![win](https://i.imgur.com/jUqC1Mg.gifv)
 ![loss](https://i.imgur.com/lM2B1Fe.gifv)
-```
+
