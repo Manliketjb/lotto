@@ -22,3 +22,5 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
 
 
 Upload the **lotto.png**  into your **inventory/html/images** folder
+
+![alt text](http://url/to/img.png)
