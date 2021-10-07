@@ -23,4 +23,4 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
 
 Upload the **lotto.png**  into your **inventory/html/images** folder
 
-![Alt Text](https://media1.giphy.com/media/tupEdbE0QE6USnbZsr/giphy.gif)
+![Winning](https://media1.giphy.com/media/tupEdbE0QE6USnbZsr/giphy.gif)
