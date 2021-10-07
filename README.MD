@@ -23,4 +23,4 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
 
 Upload the **lotto.png**  into your **inventory/html/images** folder
 
-![win](https://streamable.com/6h1gmz)
+![Alt Text](https://media1.giphy.com/media/tupEdbE0QE6USnbZsr/giphy.gif?cid=790b76117e5e497880db68ea077f0101e8a5beb936f435e2&rid=giphy.gif&ct=g)
