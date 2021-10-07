@@ -22,10 +22,10 @@ window.addEventListener("DOMContentLoaded", () => {
           init = () => {
               if (winner) {
                   emojis.push('💵');
-                  message = "Parabens ganhaste x2!";
+                  message = "Congratulations, you won!!";
               } else {
                   emojis.push('💸');
-                  message = "Perdeste, fica para a proxima.";
+                  message = "You lost, better luck next time!";
               }
 
               outputEmojis(shuffleArray(emojis));
