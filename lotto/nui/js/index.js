@@ -21,11 +21,11 @@ window.addEventListener("DOMContentLoaded", () => {
   },
   init = () => {
     if (winner) {
-      emojis.push('💵');
-      message = "You won!";
+      emojis.push("💵");
+      message = "Congratulations, you won!!";
     } else {
-      emojis.push('💸');
-      message = "You lost.";
+      emojis.push("💸");
+      message = "You lost, better luck next time!";
     }
 
     outputEmojis(shuffleArray(emojis));
