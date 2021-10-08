@@ -1,3 +1,3 @@
 Config = {}
 
-Config.Payment = 500
+Config.Payment = 10
