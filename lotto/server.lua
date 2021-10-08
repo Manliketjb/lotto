@@ -9,11 +9,10 @@ QBCore.Functions.CreateUseableItem("lotto", function(source, item)
 end)
 
 
-
 RegisterServerEvent('lotto:win')
 AddEventHandler('lotto:win', function()
 	local src = source
 	local Player = QBCore.Functions.GetPlayer(src)
-	local money = math.random(330, 2000)
-	Player.Functions.AddMoney('cash', Config.Payment)
+	local money = math.random(100, 200)
+	Player.Functions.AddMoney('cash', Config.Payment * money)
 end)
