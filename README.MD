@@ -4,6 +4,8 @@ First of all **DONT** rename the folder (lotto).
 just upload the lotto into your recources.
 Add **start lotto** into your **server.cfg**
 
+---
+
 ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
 
 ```
@@ -19,7 +21,7 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
   ["combinable"] = nil,  
   ["description"] = "Lucky Ticket"},
  ```
---
+---
 
 Upload the **lotto.png**  into your **inventory/html/images** folder
 
@@ -29,7 +31,7 @@ https://media.giphy.com/media/tupEdbE0QE6USnbZsr/source.gif
 **Lost screen**
 https://media.giphy.com/media/l1Kx74oMJweCiFZOL6/source.gif
 
---
+---
 
 ``` 
 Credits to the original author for the script.
