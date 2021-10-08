@@ -33,5 +33,4 @@ https://media.giphy.com/media/l1Kx74oMJweCiFZOL6/source.gif
 Credits to the original author for the script.
 
 DO NOT SELL THIS SCRIPT, ITS FREE FOR QBCORE COMMUNITY 
-
 ```
