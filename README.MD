@@ -1,12 +1,18 @@
-### This script is converted by Captainrum89 and updated by ManLikeTJB for QBCore
+## lottoscript converted by Captainrum89, Updated by ManLikeTJB
 
 First of all **DONT** rename the folder (lotto).
 just upload the lotto into your recources.
 
----
-Upload the **lotto.png**  into your **inventory/html/images** folder
+## Requirements
+- QbCore framework (https://github.com/qbcore-framework)
+- none
 
-ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
+## Setup
+1. Download or clone this repository inside your resources folder
+2. Remove the "-main" part from folder name
+3. Upload the **lotto.png** into your **inventory/html/images** folder
+4. Add a line to your server.cfg file -> **start qb-carrobbery**
+5. ADD *see below* to your **qb-core/shared.lua**
 
 ```
 ["lotto"] = {
@@ -21,12 +27,11 @@ ADD THIS INTO YOUR **shared.lua** (in your qb-core folder)
   ["combinable"] = nil,  
   ["description"] = "Lucky Ticket"},
  ```
----
-
-**Win screen**
+ 
+## Win screen
 https://media.giphy.com/media/tupEdbE0QE6USnbZsr/source.gif
 
-**Lost screen**
+## Lost screen
 https://media.giphy.com/media/l1Kx74oMJweCiFZOL6/source.gif
 
 ``` 
