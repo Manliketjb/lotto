@@ -1,5 +1,3 @@
-QBCore = exports['qb-core']:GetCoreObject()
-
 RegisterNetEvent('lotto:usar')
 AddEventHandler('lotto:usar', function()
 	SetNuiFocus( true, true )
